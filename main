@@ -26,23 +26,24 @@ library.theme = {
     tilesize = 90,
     cursor = true,
     cursorimg = "https://t0.rbxcdn.com/42f66da98c40252ee151326a82aab51f",
-    backgroundcolor = Color3.fromRGB(10, 10, 10),
-    tabstextcolor = Color3.fromRGB(200, 150, 255),
-    bordercolor = Color3.fromRGB(60, 0, 120),
-    accentcolor = Color3.fromRGB(120, 0, 255),
-    accentcolor2 = Color3.fromRGB(80, 0, 180),
-    outlinecolor = Color3.fromRGB(40, 0, 90),
-    outlinecolor2 = Color3.fromRGB(20, 0, 50),
-    sectorcolor = Color3.fromRGB(20, 10, 30),
-    toptextcolor = Color3.fromRGB(220, 180, 255),
+    backgroundcolor = Color3.fromRGB(0, 0, 0),
+    tabstextcolor = Color3.fromRGB(150, 0, 200),
+    bordercolor = Color3.fromRGB(50, 0, 80),
+    accentcolor = Color3.fromRGB(80, 0, 120),
+    accentcolor2 = Color3.fromRGB(60, 0, 90),
+    outlinecolor = Color3.fromRGB(30, 0, 50),
+    outlinecolor2 = Color3.fromRGB(20, 0, 30),
+    sectorcolor = Color3.fromRGB(10, 0, 20),
+    toptextcolor = Color3.fromRGB(180, 0, 220),
     topheight = 48,
-    topcolor = Color3.fromRGB(50, 0, 100),
-    topcolor2 = Color3.fromRGB(30, 0, 80),
-    buttoncolor = Color3.fromRGB(90, 0, 160),
-    buttoncolor2 = Color3.fromRGB(60, 0, 120),
-    itemscolor = Color3.fromRGB(180, 120, 255),
-    itemscolor2 = Color3.fromRGB(150, 90, 255)
+    topcolor = Color3.fromRGB(40, 0, 60),
+    topcolor2 = Color3.fromRGB(20, 0, 40),
+    buttoncolor = Color3.fromRGB(70, 0, 100),
+    buttoncolor2 = Color3.fromRGB(50, 0, 80),
+    itemscolor = Color3.fromRGB(120, 0, 180),
+    itemscolor2 = Color3.fromRGB(100, 0, 150)
 }
+
 
 
 
